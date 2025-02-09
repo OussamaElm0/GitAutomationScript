@@ -40,4 +40,4 @@ This script is a simple automation tool for committing and pushing changes to a 
 To use the script, simply execute it in your terminal:
 
 ```bash
-./commit_script.sh
+./git_push.sh
